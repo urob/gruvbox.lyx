@@ -4,7 +4,7 @@
 
 A dark LyX color scheme with colors inspired by the excellent [Gruvbox color
 theme](https://github.com/morhetz/gruvbox) for the [Vim
-text editor](https://atom.io/).
+text editor](https://www.vim.org).
 
 ## Installation
 
